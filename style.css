@@ -9,4 +9,8 @@ body{
     font-size: 25px;
   }
   
-  
+  th{
+    background-color: blueviolet;
+    color: white;
+    font-weight: bold;
+  }
